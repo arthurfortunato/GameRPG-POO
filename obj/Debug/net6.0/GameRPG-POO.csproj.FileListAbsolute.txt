@@ -1,0 +1,15 @@
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\bin\Debug\net6.0\GameRPG-POO.exe
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\bin\Debug\net6.0\GameRPG-POO.deps.json
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\bin\Debug\net6.0\GameRPG-POO.runtimeconfig.json
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\bin\Debug\net6.0\GameRPG-POO.dll
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\bin\Debug\net6.0\ref\GameRPG-POO.dll
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\bin\Debug\net6.0\GameRPG-POO.pdb
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\obj\Debug\net6.0\GameRPG-POO.csproj.AssemblyReference.cache
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\obj\Debug\net6.0\GameRPG-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\obj\Debug\net6.0\GameRPG-POO.AssemblyInfoInputs.cache
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\obj\Debug\net6.0\GameRPG-POO.AssemblyInfo.cs
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\obj\Debug\net6.0\GameRPG-POO.csproj.CoreCompileInputs.cache
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\obj\Debug\net6.0\GameRPG-POO.dll
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\obj\Debug\net6.0\ref\GameRPG-POO.dll
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\obj\Debug\net6.0\GameRPG-POO.pdb
+C:\Users\luiza\Desktop\workspace\GameRPG-POO\obj\Debug\net6.0\GameRPG-POO.genruntimeconfig.cache
